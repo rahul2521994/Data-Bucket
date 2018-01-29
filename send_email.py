@@ -15,10 +15,10 @@ from datetime import datetime,timedelta
 
 SMTP_host = 'email-smtp.us-west-2.amazonaws.com'
 SMTP_port = '587'
-SMTP_username = 'AKIAIQ6XDBEJ5SXK5ZIQ'
-SMTP_password = 'AkAGnvspLA05yNM0tLyC7ceLPe0IVWrouJaItKCybdZT'
-sender = 'automated-notifications@c1exchange.com'
-from_email = 'automated-notifications@c1exchange.com'
+SMTP_username = 'xxxxxxxxxxxxxxxxxxxx'
+SMTP_password = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+sender = 'raj.k.stats@gmail.com'
+from_email = 'raj.k.stats@gmail.com'
 
 
 emailBody = """
